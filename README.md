@@ -1,4 +1,4 @@
-# 🎓 Amrita Timetable Portal
+# 🎓 KLU Timetable Portal
 
 A student timetable web app built for **Amrita Vishwa Vidyapeetham, Bengaluru**  
 **B.Tech AIE • 2026-27 Even Semester**
@@ -16,9 +16,9 @@ A student timetable web app built for **Amrita Vishwa Vidyapeetham, Bengaluru**
 - 📊 Semester progress bar
 
 ## 👨‍💻 Developer
-**Dhanush Rongali**  
+**Tejesh Devalla**  
 Student at Amrita Vishwa Vidyapeetham
 
-[![GitHub](https://img.shields.io/badge/GitHub-rongalidhanush-black?logo=github)](https://github.com/rongalidhanush)
+[![GitHub](https://img.shields.io/badge/GitHub-rongalidhanush-black?logo=github)]([https://github.com/devallatejesh])
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushrongali-blue?logo=linkedin)](https://www.linkedin.com/in/dhanushrongali/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushrongali-blue?logo=linkedin)]([https://www.linkedin.com/in/devalla-tejesh-781096378/])
