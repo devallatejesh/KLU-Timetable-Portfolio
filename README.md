@@ -1,7 +1,7 @@
 # 🎓 KLU Timetable Portal
 
-A student timetable web app built for **Amrita Vishwa Vidyapeetham, Bengaluru**  
-**B.Tech AIE • 2026-27 Even Semester**
+A student timetable web app built for **KLU,Vijaywada**  
+**B.Tech Honours • 2026-27 Semester**
 
 ## 🌐 Live Demo
 👉 [timetable-portal.vercel.app](https://timetable-portal.vercel.app)
