@@ -18,7 +18,6 @@ A student timetable web app built for **KLU,Vijaywada**
 ## 👨‍💻 Developer
 **Tejesh Devalla**  
 Student at Amrita Vishwa Vidyapeetham
+[![GitHub](https://img.shields.io/badge/GitHub-Devalla%20Tejesh-black?logo=github)](https://github.com/devallatejesh)
 
-[![GitHub]([https://github.com/devallatejesh])
-
-[![LinkedIn]([https://www.linkedin.com/in/devalla-tejesh-781096378/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devalla%20Tejesh-blue?logo=linkedin)](https://www.linkedin.com/in/devalla-tejesh-781096378/)
